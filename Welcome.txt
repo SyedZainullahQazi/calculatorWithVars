@@ -1,0 +1,1 @@
+This is Javascript Based Calculator With custom variable and evaluation feature.
