@@ -1,0 +1,20 @@
+.btn-size
+{
+    width:10vw;
+    margin-right:1vw;
+    margin-top:1vw;
+}
+
+.variableTop
+{
+    margin-top:5vw;
+}
+.submitTop
+{
+    margin-top:6.5vw;
+}
+
+#varWrongValueWarning
+{
+    color:red;
+}
